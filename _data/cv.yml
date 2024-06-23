@@ -1,19 +1,15 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Name
+      value: Amy Wei
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: B.S.E in Computer Science; Minor in Mathematics; Engineering Honors 
+      institution: University of Michigan-Ann Arbor
+      year: 
       description:
         - Description 1.
         - Description 2.
