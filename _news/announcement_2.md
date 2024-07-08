@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2023-5-29
+date: 2024-1-8
 inline: true
 related_posts: false
 ---
 
-I began working as a Research Assistant at Carnegie Mellon University's Research Experience for Undergraduates in Software Engineering.
+I began teaching as an Instructional Aide for Discrete Mathematics (EECS 203) in the University of Michigan Computer Science and Engineering Department.
