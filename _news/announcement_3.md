@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began working as a Research Assistant at Carnegie Mellon University's Research Experience for Undergraduates in Software Engineering.
+Began working as a Research Assistant at Carnegie Mellon University's Research Experience for Undergraduates in Software Engineering.
