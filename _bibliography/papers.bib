@@ -1,13 +1,25 @@
 ---
 ---
 
+
+@article{TestLoop,
+  abbr={TOSEM},
+  title={TestLoop: A Process Model Describing Human-in-the-Loop Software Test Suite Generation},
+  author={Davis, Matthew C. and Choi, Sangheon and Wei, Amy and Estep, Sam and Myers, Brad and Sunshine, Joshua},
+  journal={ACM Transactions on Software Engineering and Methodology (TOSEM)},
+  year={2025},
+  preview={TestLoop_all_diagrams.png},
+  abstract={There is substantial diversity among testing tools used by software engineers. For example, fuzzers may target crashes and security vulnerabilities while Automatic Test sUite Generators (ATUGs) may create high-coverage test suites. In the research community, test generation tools are primarily evaluated using metrics like bugs identified or code coverage. However, achieving good values for these metrics does not necessarily imply that these tools help software engineers efficiently develop effective test suites. To understand the test suite generation process, we performed a secondary analysis of recordings from a previously-published user study in which 28 professional software engineers used two tools to generate test suites for three programs with each tool. From these 168 recordings (28 users x 2 tools x 3 programs/tool), we extracted a process model of test suite generation called TestLoop that builds upon prior work and systematizes a user's test suite generation process for a single function into 7 steps. We then used TestLoop's steps to describe 8 prior and 10 new recordings of users generating test suites using the Jest, Hypothesis, and NaNofuzz test generation tools. Our results showed that TestLoop can be used to help answer previously hard-to-answer questions about how users interact with test suite generation tools and to identify ways that tools might be improved.}
+}
 @article{TerzoN,
   abbr={FSE},
   title={TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle},
   author={Davis, Matthew C. and Wei, Amy and Myers, Brad A. and Sunshine, Joshua},
-  journal={Foundations of Software Engineering},
+  journal={ACM Foundations of Software Engineering},
   year={2025},
+  doi={10.1145/3729359},
+  url={https://doi.org/10.1145/3729359},
   pdf={TerzoN_FSE_2025.pdf},
-  doi={https://doi.org/10.1145/3729359},
-  preview={TerzoN_cropped.png}
+  preview={TerzoN_cropped.png},
+  abstract={Software testing is difficult, tedious, and may consume 28%-50% of software engineering labor. Automatic test generators aim to ease this burden but have important trade-offs. Fuzzers use an implicit oracle that can detect obviously invalid results, but the oracle problem has no general solution, and an implicit oracle cannot automatically evaluate correctness. Test suite generators like EvoSuite use the program under test as the oracle and therefore cannot evaluate correctness. Property-based testing tools evaluate correctness, but users have difficulty coming up with properties to test and understanding whether their properties are correct. Consequently, practitioners create many test suites manually and often use an example-based oracle to tediously specify correct input and output examples. To help bridge the gaps among various oracle and tool types, we present the Composite Oracle, which organizes various oracle types into a hierarchy and renders a single test result per example execution. To understand the Composite Oracle's practical properties, we built TerzoN, a test suite generator that includes a particular instantiation of the Composite Oracle. TerzoN displays all the test results in an integrated view composed from the results of three types of oracles and finds some types of test assertion inconsistencies that might otherwise lead to misleading test results. We evaluated TerzoN in a randomized controlled trial with 14 professional software engineers with a popular industry tool, fast-check, as the control. Participants using TerzoN elicited 72% more bugs (p < 0.01), accurately described more than twice the number of bugs (p < 0.01) and tested 16% more quickly (p < 0.05) relative to fast-check.}
 }
