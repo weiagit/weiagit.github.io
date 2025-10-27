@@ -24,5 +24,5 @@ I have taught as an Instructional Aide for Discrete Mathematics (EECS 203) since
 
 <div style="display: flex; gap: 2%;">
   <img src="{{ '/assets/img/eecs203_cards.jpeg' | relative_url }}" alt="EECS 203 T-shirt logo" style="width: 45%;">
-  <img src="{{ '/assets/img/eecs203_tie_dye.jpeg' | relative_url }}" alt="EECS 203 tie-dyed T-shirt logo" style="width: 45%;">
+  <img src="{{ '/assets/img/eecs203_tie_dye.jpg' | relative_url }}" alt="EECS 203 tie-dyed T-shirt logo" style="width: 45%;">
 </div>
