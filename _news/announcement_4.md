@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I began working as an Undergraduate Researcher with Professor Westley Weimer and PhD student Priscila Santiesteban.
+I will be an undergraduate researcher working with Professor Westley Weimer and PhD student Priscila Santiesteban at the University of Michigan.

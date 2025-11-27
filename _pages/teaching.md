@@ -9,16 +9,17 @@ nav_order: 6
 
 ### Discrete Mathematics (EECS 203)
 
-I have taught as an Instructional Aide for Discrete Mathematics (EECS 203) since Winter 2024 at the University of Michigan. I teach a class section, hold office hours, write homework problems, and grade exams. I am part of the homework management subteam.
+I am fortunate have taught for four semesters as a Discrete Mathematics (EECS 203) Instructional Aide at the University of Michigan. I teach a discussion section of 40+ students and hold weekly office hours. In addition, my responsibilities include publishing grades for 600+ students, hiring and managing our team of 16 graders, leading end-to-end homework duties, writing homework and exam problems, and grading exams.
 
-##### Topics:
+##### Selected Topics:
 
-- Logic, proofs, induction
-- Sets, functions
-- Countability
+- Logic, proofs
+- Sets, functions, countability
 - Graphs, trees
-- Counting, combinatorics
-- Probability
+- Modular arithmetic
+- Induction, structural induction
+- Recurrences
+- Counting, probability
 
 <!-- ![A beautiful landscape](/assets/img/12.jpg) -->
 
