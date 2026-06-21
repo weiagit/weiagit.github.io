@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Began teaching as an Instructional Aide for Discrete Mathematics (EECS 203) at the University of Michigan.
+I began teaching as an Instructional Aide for Discrete Mathematics (EECS 203) at the University of Michigan.

@@ -24,9 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I am an incoming CS PhD student at the University of Massachusetts Amherst, advised by [Prof. Yuriy Brun](https://people.cs.umass.edu/~brun/) as part of the [LASER](https://laser.cs.umass.edu/) lab.
+Hi! I am an incoming CS PhD student at the University of Massachusetts Amherst, advised by [Prof. Yuriy Brun](https://people.cs.umass.edu/~brun/) within the [LASER lab](https://laser.cs.umass.edu/).
 
-Before coming to Amherst, I graduated from the University of Michigan, where I was an undergraduate researcher in [Prof. Westley Weimer's](https://web.eecs.umich.edu/~weimerw/) research group. I also worked with professors [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/) and [Brad Myers](https://www.cs.cmu.edu/~bam/) through the [REUSE](https://www.cmu.edu/scs/s3d/reuse/) (Research Experience for Undergraduates in Software Engineering) program at Carnegie Mellon University.
+Before coming to Amherst, I graduated from the University of Michigan, where I was part of [Prof. Westley Weimer's](https://web.eecs.umich.edu/~weimerw/) research group. I also worked with professors [Joshua Sunshine](https://www.cs.cmu.edu/~jssunshi/) and [Brad Myers](https://www.cs.cmu.edu/~bam/) through the [REUSE](https://www.cmu.edu/scs/s3d/reuse/) (Research Experience for Undergraduates in Software Engineering) program at Carnegie Mellon University.
 
 While at Michigan, I taught as a [Discrete Mathematics](https://ece.engin.umich.edu/academics/course-information/course-descriptions/eecs-203/) (EECS 203) Instructional Aide for five semesters.
 
