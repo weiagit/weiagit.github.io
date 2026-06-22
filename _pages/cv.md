@@ -1,12 +1,15 @@
 ---
-layout: cv
-permalink: /cv/
+layout: page
 title: CV
+permalink: /cv/
 nav: true
-nav_order: 5
-cv_pdf: /assets/rendercv/rendercv_output/CV.pdf # you can also use external links here
-cv_format: rendercv # options: rendercv, jsonresume
-description:
-toc:
-  sidebar: left
+nav_order: 4
+# redirect_to: /assets/pdf/Amy_Wei_CV.pdf
 ---
+
+<meta http-equiv="refresh" content="0; url={{ '/assets/pdf/Amy_Wei_CV.pdf' | relative_url }}" />
+
+<p>Redirecting to CV...</p>
+<script>
+  window.location.href = "{{ '/assets/pdf/Amy_Wei_CV.pdf' | relative_url }}";
+</script>
