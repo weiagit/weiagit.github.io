@@ -32,38 +32,12 @@ While at Michigan, I taught as a [Discrete Mathematics](https://ece.engin.umich.
 
 I have also played violin and sung in choir for many years, and I continued to play at Michigan in the Campus Symphony Orchestra.
 
-<div class="cv-button-container mt-2 mb-4" style="text-align: left; display: block; clear: both; width: 100%; margin-left: -5px;">
-  <a href="{{ '/assets/pdf/your_cv.pdf' | relative_url }}" 
+<div class="cv-button-container mt-2 mb-4" style="margin-left: -7px">
+  <a href="{{ '/assets/pdf/Amy_Wei_CV.pdf' | relative_url }}" 
      class="btn btn-outline-vertical btn-sm z-depth-11" 
      target="_blank" 
      rel="noopener noreferrer" 
-     style="border: 1px solid var(--global-theme-color); color: var(--global-theme-color); padding: 6px 14px; font-size: 0.9rem; letter-spacing: 0.5px; transition: all 0.2s ease-in-out; display: inline-block;">
+     style="border: .5px solid var(--global-theme-color); color: var(--global-theme-color); padding: 5px 10px; border-radius: 5px; font-size: 0.9rem; letter-spacing: 0.5px; transition: all 0.2s ease-in-out;">
     <i class="fa-solid fa-file-pdf mr-1"></i> curriculum vitae
-  </a>
-</div>
-
-<div class="cv-button-container mt-2 mb-4" style="text-align: left; display: block; clear: both;">
-  <a href="{{ '/assets/pdf/your_cv.pdf' | relative_url }}" 
-     class="btn btn-outline-vertical btn-sm z-depth-11" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="border: 1px solid var(--global-theme-color); color: var(--global-theme-color); padding: 6px 14px; font-size: 0.9rem; letter-spacing: 0.5px; transition: all 0.2s ease-in-out; display: inline-inline-block;">
-    <i class="fa-solid fa-file-pdf mr-1"></i> curriculum vitae
-  </a>
-</div>
-
-<div class="cv-button-container mt-2 mb-4" style="margin-left: -5px">
-  <a href="{{ '/assets/pdf/your_cv.pdf' | relative_url }}" 
-     class="btn btn-outline-vertical btn-sm z-depth-11" 
-     target="_blank" 
-     rel="noopener noreferrer" 
-     style="border: 1px solid var(--global-theme-color); color: var(--global-theme-color); padding: 5px 10px; border-radius: 5px; font-size: 0.9rem; letter-spacing: 0.5px; transition: all 0.2s ease-in-out;">
-    <i class="fa-solid fa-file-pdf mr-1"></i> curriculum vitae
-  </a>
-</div>
-
-<div class="profile-links" style="margin-bottom: 10px;">
-  <a href="{{ '/assets/pdf/Amy_Wei_CV.pdf' | relative_url }}" class="btn btn-sm z-depth-1" target="_blank" rel="noopener noreferrer" style="background-color: var(--global-theme-color); color: var(--global-bg-color); font-size: 14px;  padding: 5px 10px; border-radius: 5px;">
-    <i class="fa-solid fa-file-pdf"></i> Download CV
   </a>
 </div>
