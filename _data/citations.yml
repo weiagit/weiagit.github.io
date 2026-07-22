@@ -1,11 +1,11 @@
 metadata:
-  last_updated: '2026-06-26'
+  last_updated: '2026-07-22'
 papers:
   Sats6TAAAAAJ:u-x6o8ySG0sC:
-    citations: 2
+    citations: 3
     title: 'TerzoN: Human-in-the-Loop Software Testing with a Composite Oracle'
     year: '2025'
   Sats6TAAAAAJ:u5HHmVD_uO8C:
     citations: 2
-    title: 'TestLoop: A Process Model Describing Human-in-the-Loop Software Test Suite Generation'
-    year: '2025'
+    title: 'TestLoop: A process model describing human-in-the-loop software test suite generation'
+    year: '2026'
