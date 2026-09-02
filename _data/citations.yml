@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-09-02'
 papers:
+  Sats6TAAAAAJ:d1gkVwhDpl0C:
+    citations: 0
+    title: 'Sweat the Details: Exercise Breaks and AI Assistance in Code Summarization'
+    year: '2026'
   Sats6TAAAAAJ:u-x6o8ySG0sC:
     citations: 4
     title: 'TerzoN: Human-in-the-loop software testing with a composite oracle'
