@@ -41,10 +41,10 @@ EECS 203 was one of my favorite courses as a student. Some of our topics are lis
 </style>
 
 <div class="image-grid">
-  <img src="{{ '/assets/img/eecs203_cards.webp' | relative_url }}" alt="">
-  <img src="{{ '/assets/img/eecs203-wanda-worm.webp' | relative_url }}" alt="">
-  <img src="{{ '/assets/img/eecs203_tie_dye.webp' | relative_url }}" alt="">
-  <img src="{{ '/assets/img/eecs203-hilbert.webp' | relative_url }}" alt="">
+  <img src="{{ '/assets/img/eecs203_cards.jpeg' | relative_url }}" alt="">
+  <img src="{{ '/assets/img/eecs203-wanda-worm.jpeg' | relative_url }}" alt="">
+  <img src="{{ '/assets/img/eecs203_tie_dye.jpeg' | relative_url }}" alt="">
+  <img src="{{ '/assets/img/eecs203-hilbert.jpeg' | relative_url }}" alt="">
 </div>
 
 Credit to Sarah Shapin, Lauren Lee, and our 203 staff for our t-shirt designs!

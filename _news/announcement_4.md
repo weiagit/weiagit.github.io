@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I joined Prof. Westley Weimer's research group as an undergraduate researcher working with PhD student Priscila Santiesteban.
+I joined Westley Weimer's research group as an undergraduate researcher working with PhD student Priscila Santiesteban.
